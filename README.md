@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Harrisonking1923
 - 👀 I’m interested in front-end web development, creating applications and software that provide business solutions.
-- 🌱 I’m currently learning HTML, CSS and Java.
-- 💞️ I’m looking to collaborate on anything possible. I have only started programming in March 2023 so want all the experience and knowledge possible.
+- 🌱 I’m currently learning React.
+- 💞️ I’m looking to collaborate on anything possible. I am to land a job in Australia by September 2025.
 - 📫 How to reach me - Through Github
 
 <!---
